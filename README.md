@@ -1,4 +1,4 @@
-# Visual Studio Theme - Dung Gramer
+# Visual Studio Theme - Dev C++
 New theme for Dev C++
 
 
